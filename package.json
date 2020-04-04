@@ -1,6 +1,6 @@
 {
   "name": "your_project_name",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "build": "node ./util/build.js",
     "lint": "tslint --project \"tsconfig.json\"",
